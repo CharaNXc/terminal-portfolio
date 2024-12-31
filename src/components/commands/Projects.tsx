@@ -39,7 +39,7 @@ const Projects: React.FC = () => {
   ) : (
     <div data-testid="projects">
       <ProjectsIntro>
-        “Talk is cheap. Show me the code”? I got you. <br />
+        “Talk is cheap. I got you. <br />
         Here are some of my projects you shouldn't misss
       </ProjectsIntro>
       {projects.map(({ id, title, desc }) => (
@@ -56,9 +56,9 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Sat Naing's Blog",
-    desc: "My personal blog where I can write down my thoughts and experiences.",
-    url: "https://satnaing.dev/blog/",
+    title: "Charan's Boring Website",
+    desc: "Explore my portfolio, where I share my thoughts, experiences, and creative projects, reflecting my professional and personal growth.",
+    url: "https://charanxc.framer.website/",
   },
   {
     id: 2,
