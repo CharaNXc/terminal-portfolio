@@ -28,7 +28,7 @@ const Welcome: React.FC = () => {
                                                                                                                                                                                                
 
 </marquee>                                   
-          }
+          '}
         </PreName>
         <PreWrapper>
           <PreNameMobile>
