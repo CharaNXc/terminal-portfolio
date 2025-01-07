@@ -94,6 +94,14 @@ $$/   $$/ $$/   $$/  $$$$$$/  $$/   $$/ $$$$$$$$/
         </div>
         <Seperator>----</Seperator>
         <div>
+          Checkout my boring portfolio at  {" "}
+          <Link href="https://charanxc.framer.website/">
+            here
+          </Link>
+          .
+        </div>
+        <Seperator>----</Seperator>
+        <div>
           For a list of available commands, type `<Cmd>help</Cmd>`.
         </div>
       </div>
