@@ -22,11 +22,11 @@ const eduBg = [
   },
   {
     title: "MPC Telangana Inter",
-    desc: "Narayana Junior College | 93%",
+    desc: "Narayana Junior College | 2019 - 2021 | 93%",
   },
   {
-    title: "10th Grade",
-    desc: "St. Mary's High School",
+    title: "Board of Secondary Education, Telangana (BSE Telangana)",
+    desc: "St. Mary's High School| 2018 - 2019 | CGPA: 9/10",
   }
 ];
 
