@@ -61,6 +61,12 @@ const socials = [
     url: "https://www.linkedin.com/in/charan-sai-anche-2b41a8208/",
     tab: 3,
   },
+  {
+    id: 3,
+    title: "Resume",
+    url: "https://drive.google.com/file/d/1lk2GpQXYSQW9T8R4KOdA_Mu24dLsvkGQ/view",
+    tab: 3,
+  },
 ];
 
 export default Socials;
