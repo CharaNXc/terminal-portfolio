@@ -86,6 +86,14 @@ $$/   $$/ $$/   $$/  $$$$$$/  $$/   $$/ $$$$$$$$/
         </div>
         <Seperator>----</Seperator>
         <div>
+          Download my resume at {" "}
+          <Link href="https://drive.google.com/file/d/1lk2GpQXYSQW9T8R4KOdA_Mu24dLsvkGQ/view">
+            Resume
+          </Link>
+          .
+        </div>
+        <Seperator>----</Seperator>
+        <div>
           For a list of available commands, type `<Cmd>help</Cmd>`.
         </div>
       </div>
