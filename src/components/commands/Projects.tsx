@@ -62,21 +62,28 @@ const projects = [
   },
   {
     id: 2,
-    title: "Haru Fashion",
-    desc: "An ecommerce web application where users can browse various products and make purchases.",
-    url: "https://haru-fashion.vercel.app/",
+    title: "GUI Interface for Encoding and Decoding using Python",
+    desc: "Developed a GUI-based application leveraging the RSA algorithm for secure cryptographic operations.",
   },
   {
     id: 3,
-    title: "Haru API",
-    desc: "A RESTful API developed for the Haru fashion ecommerce project.",
-    url: "https://satnaing.github.io/haru-api/",
+    title: "Parking System (IoT)",
+    desc: "Designed an IoT-based Parking System using Arduino Uno to monitor and display real-time parking availability.",
   },
   {
     id: 4,
-    title: "AstroPaper Blog Theme",
-    desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
-    url: "https://astro-paper.pages.dev/",
+    title: "IoT Parking Grid View Assistance",
+    desc: "Created a grid-based visual assistance system for parking using IoT sensors to enhance navigation in parking lots.",
+  },
+  {
+    id: 5,
+    title: "Employee Management System",
+    desc: "Implemented an employee management system using BASH scripting to streamline HR operations.",
+  },
+  {
+    id: 6,
+    title: "SOAR EDR Integration",
+    desc: "Integrated Security Orchestration, Automation, and Response (SOAR) with Endpoint Detection and Response (EDR) using LimaCharlie.",
   },
 ];
 
