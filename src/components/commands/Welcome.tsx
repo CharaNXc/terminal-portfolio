@@ -94,7 +94,7 @@ $$/   $$/ $$/   $$/  $$$$$$/  $$/   $$/ $$$$$$$$/
         </div>
         <Seperator>----</Seperator>
         <div>
-          Checkout my boring portfolio at  {" "}
+          Checkout my boring portfolio {" "}
           <Link href="https://charanxc.framer.website/">
             here
           </Link>
